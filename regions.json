@@ -27,4 +27,4 @@
   'Gers': [0.6, 43.666],'Lot': [1.45, 44.566],'Hautes-Pyrénées': [0.1, 43.1],'Tarn': [2.15, 43.95],'Tarn-et-Garonne': [1.25, 44.05],'Allier': [3.15, 46.333],
   'Cantal': [2.55, 45.083],'Haute-Loire': [3.833, 45.083],'Puy-de-Dôme': [3.166, 45.75],'Ain': [5.35, 46.0],'Ardèche': [4.433, 44.666],'Drôme': [5.05, 44.5],
   'Isère': [5.5, 45.333],'Loire': [4.366, 45.666],'Rhône': [4.7, 45.75],'Savoie': [6.416, 45.5],'Haute-Savoie': [6.25, 46.05],'Alpes-de-Haute-Provence': [6.216, 44.0],
-  'Hautes-Alpes': [6.333, 44.666],'Alpes-Maritimes': [7.1, 43.7],'Bouches-du-Rhône': [5.416, 43.5],'Var': [6.216, 43.4],'Vaucluse': [5.166, 44.0],}
+  'Hautes-Alpes': [6.333, 44.666],'Alpes-Maritimes': [7.1, 43.7],'Bouches-du-Rhône': [5.416, 43.5],'Var': [6.216, 43.4],'Vaucluse': [5.166, 44.0]}
